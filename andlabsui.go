@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/andlabs/ui"
-	_ "github.com/andlabs/ui/winmanifest"
+	// _ "github.com/andlabs/ui/winmanifest"
 )
 
 func main() {
