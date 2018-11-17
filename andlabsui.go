@@ -1,4 +1,4 @@
-package main // import "example-gui"
+package main // import "andlabsui"
 
 import (
 	"os"
